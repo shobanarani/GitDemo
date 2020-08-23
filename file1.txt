@@ -1,1 +1,5 @@
 commit1
+feature - commit2
+feature commit3
+feature commit4
+feature2 commit5
